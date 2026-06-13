@@ -1,5 +1,11 @@
-{
-"EMV"
-"THERMO"
-"PS SYSTEM"
-}
+[
+  {
+    "Firma": "EMV"
+  },
+  {
+    "Firma": "THERMO"
+  },
+   {
+    "Firma": "PS SYSTEM"
+  }
+]
