@@ -3,15 +3,5 @@
     "Firma": "EMV",
     "LinkDB": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/katalogEMV.db",
     "LinkV": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/versionEMV.json"
-  },
-  {
-    "Firma": "THERMO",
-    "LinkDB": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/katalogTH.db",
-    "LinkV": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/versionTH.json"
-  },
-  {
-    "Firma": "PS SYSTEM",
-    "LinkDB": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/katalogPS.db",
-    "LinkV": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/versionPS.json"
-  }
+  }  
 ]
