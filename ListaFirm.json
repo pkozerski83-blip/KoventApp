@@ -3,10 +3,5 @@
     "Firma": "EMV",
     "LinkDB": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/katalogEMV.db",
     "LinkV": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/versionEMV.json"
-  },
-   {
-    "Firma": "TEST",
-    "LinkDB": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/katalogTEST.db",
-    "LinkV": "https://raw.githubusercontent.com/pkozerski83-blip/KoventApp/main/versionTEST.json"
-  } 
+  }  
 ]
